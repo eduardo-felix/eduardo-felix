@@ -28,4 +28,4 @@
 </div>
 
 
-![snake gif](https://github.com/eduardo-felix/eduardo-felix/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/eduardo-felix/eduardo-felix/blob/output/github-contribution-grid-snake.svg)

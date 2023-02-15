@@ -9,14 +9,14 @@
 <br>
 <br>
 
-<h3 align="center"> ⚡ Tecnologias / Ferramentas 🛠️  </h2>
+<h2 align="center"> ⚡ Tecnologias / Ferramentas 🛠️  </h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,typescript,postgres,git,github,vscode,heroku,figma"></img>
 </div>  
 <br>
 <br>
-<h3 align="center"> 📧Contatos</h2>
+<h2 align="center"> 📧Contatos</h2>
 
 <div align="center">
   <p>
